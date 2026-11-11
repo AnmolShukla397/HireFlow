@@ -1,0 +1,7 @@
+numpy==1.26.4
+PyMuPDF==1.24.14
+python-docx==1.1.2
+fastapi==0.162.2
+uvicorn==0.54.0
+python-multipart==0.0.20
+cryptography==50.0.2

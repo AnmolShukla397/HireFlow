@@ -1,0 +1,18 @@
+{
+  "description": "Synthetic, clearly labeled role-to-resume fixtures for regression checks. These are not evidence of real-world hiring validity.",
+  "jobs": {
+    "data": "Data analyst with Python SQL Power BI dashboards and statistical reporting experience. Build data pipelines and communicate insights to business teams.",
+    "frontend": "Frontend engineer with React TypeScript JavaScript CSS accessibility and design systems experience. Build performant responsive user interfaces.",
+    "operations": "Operations coordinator with Excel scheduling logistics inventory vendor management and process improvement experience. Coordinate suppliers and maintain records."
+  },
+  "resumes": {
+    "data": "Maya Chen\nmaya@example.com\nSUMMARY\nData analyst with Python SQL Power BI and dashboards experience.\nEXPERIENCE\nBuilt SQL data pipelines and Power BI reports for business teams.\nEDUCATION\nBachelor of Science in Statistics.",
+    "frontend": "Jordan Lee\njordan@example.com\nSUMMARY\nFrontend engineer with React TypeScript JavaScript and CSS experience.\nEXPERIENCE\nBuilt responsive accessible interfaces and maintained a design system for a web application.\nEDUCATION\nBachelor of Science in Computer Science.",
+    "operations": "Sam Patel\nsam@example.com\nSUMMARY\nOperations coordinator with Excel inventory and logistics experience.\nEXPERIENCE\nManaged vendor schedules, supplier records, and inventory processes for a warehouse team.\nEDUCATION\nBachelor of Business Administration."
+  },
+  "expected_top": {
+    "data": "data",
+    "frontend": "frontend",
+    "operations": "operations"
+  }
+}

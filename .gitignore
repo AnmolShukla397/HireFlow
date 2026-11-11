@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Streamlit cache
+.streamlit/
+
+# Model cache
+.cache/
+
+# Output files
+data/output/
+data/embeddings/
+
+# Temporary files
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+# Keep Streamlit configuration, but never commit local credentials
+.streamlit/*
+!.streamlit/
+!.streamlit/config.toml
+
+# Local account database
+data/hireflow.sqlite3*
+data/*.key
+web/test-results/
+web/playwright-report/
+
+# Local art-direction scratch files
+.taste-skill/
+
+# React build output and local dependencies
+web/node_modules/
+web/dist/
+web/*.tsbuildinfo
+web/.npm-cache/

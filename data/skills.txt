@@ -1,0 +1,168 @@
+Python
+Java
+C++
+C#
+SQL
+MySQL
+PostgreSQL
+MongoDB
+Oracle
+
+Machine Learning
+Deep Learning
+Artificial Intelligence
+NLP
+Computer Vision
+
+TensorFlow
+PyTorch
+Keras
+Scikit-learn
+XGBoost
+LightGBM
+
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Plotly
+
+Power BI
+Tableau
+Excel
+
+Git
+GitHub
+Docker
+Kubernetes
+Linux
+
+FastAPI
+Flask
+Django
+Streamlit
+
+AWS
+Azure
+GCP
+
+Spark
+Hadoop
+
+LangChain
+OpenAI
+Gemini
+FAISS
+ChromaDB
+Vector Database
+
+RAG
+LLM
+Generative AI
+
+HTML
+CSS
+JavaScript
+React
+Node.js
+FastAPI
+PyTorch
+Docker
+FAISS
+LangChain
+OpenAI
+Hugging Face
+spaCy
+Transformers
+LLM
+RAG
+React
+Angular
+Vue
+TypeScript
+JavaScript
+Node.js
+Next.js
+HTML
+CSS
+REST API
+GraphQL
+Microservices
+System Design
+CI/CD
+Terraform
+Jenkins
+GitLab
+Redis
+Elasticsearch
+Snowflake
+Databricks
+BigQuery
+Airflow
+Data Engineering
+Data Analysis
+Data Visualization
+Statistics
+A/B Testing
+Experimentation
+Product Analytics
+Business Intelligence
+ETL
+Data Modeling
+Data Warehousing
+Cybersecurity
+Information Security
+Cloud Computing
+DevOps
+Agile
+Scrum
+Jira
+Figma
+UX Research
+User Research
+User Interviews
+Usability Testing
+Wireframing
+Prototyping
+Interaction Design
+Visual Design
+Design Systems
+Accessibility
+Product Design
+Product Management
+Roadmapping
+Stakeholder Management
+Project Management
+Program Management
+Market Research
+Competitive Analysis
+SEO
+Content Strategy
+Copywriting
+Digital Marketing
+Email Marketing
+Social Media Marketing
+Customer Success
+Salesforce
+CRM
+Sales Operations
+Financial Analysis
+Forecasting
+Budgeting
+Accounting
+Risk Management
+Quality Assurance
+Test Automation
+Selenium
+Cypress
+Communication
+Leadership
+Collaboration
+Problem Solving
+Presentation
+Technical Writing
+Customer Service
+Recruiting
+Sourcing
+Interviewing
+Onboarding
